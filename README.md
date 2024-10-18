@@ -1,7 +1,7 @@
 # BTC_Wallet_Generator
 ## Автор: [t.me/yshlfe](t.me/yshlfe)
 
-Генерит Taproot кошельки в любом количестве
+Генерит Taproot кошельки в любом количестве в 2 клика
 
 ## Для запуска:
 1. Разархивируйте папку «BTC Generator»
